@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppFuzzer</string>
+    <string name="enableAccessiblityService">Enable Accessibility Service</string>
+    <string name="getRootAccess">Get root access</string>
 </resources>
